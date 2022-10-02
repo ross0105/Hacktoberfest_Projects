@@ -7,7 +7,11 @@
 
 int roll()     ///function for getting random number
 {
-   int number=rand();  // generate random number
+	int number;
+	for(int i=1;i<=10;i++)
+	{
+		number=rand();  // generate random number
+	}
    return (number%6)+1;
 }
 
