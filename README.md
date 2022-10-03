@@ -37,6 +37,7 @@ In each respective folder on any topic, don't forget to read the rules below to 
   <li>⚔️ If folder is not present for your language create new with name of your programming language like C++ , Python etc</li>
   <li>⚔️ Make repo well maintained if topic not present in which you want to contribute create new folder for it in their paricular section or language</li>
   <li>⚔️ Please Do not put your GitHub name and profile name in the file.</li>
+  <li>⚔️ Write neat and clean code with proper comments explaining the program.</li>
   <li>⚔️ Dont forget to star this repository and watch for more updates!</li>
 </ul>
 
